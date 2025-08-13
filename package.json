@@ -11,6 +11,7 @@
   },
   "devDependencies": {
     "@sveltejs/adapter-auto": "^3.0.0",
+    "@sveltejs/adapter-node": "^5.2.14",
     "@sveltejs/kit": "^2.0.0",
     "@sveltejs/vite-plugin-svelte": "^3.0.0",
     "autoprefixer": "^10.4.16",
@@ -27,6 +28,7 @@
   "dependencies": {
     "bits-ui": "^0.21.9",
     "clsx": "^2.1.0",
+    "dotenv": "^17.2.1",
     "lucide-svelte": "^0.343.0",
     "mode-watcher": "^0.2.2",
     "socket.io-client": "^4.7.4",
